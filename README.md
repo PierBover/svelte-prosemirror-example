@@ -8,6 +8,7 @@ This is just a little demo with the absolute basics of ProseMirror and how to wi
 * <kbd>CMD</kbd> + <kbd>V</kbd>: Paste
 * <kbd>CMD</kbd> + <kbd>B</kbd>: Toggle bold
 * <kbd>CMD</kbd> + <kbd>I</kbd>: Toggle italics
+* <kbd>CMD</kbd> + <kbd>ALT</kbd> + <kbd>0</kbd>: Paragraph
 * <kbd>CMD</kbd> + <kbd>ALT</kbd> + <kbd>1</kbd>: H1
 * <kbd>CMD</kbd> + <kbd>ALT</kbd> + <kbd>2</kbd>: H2
 * <kbd>CMD</kbd> + <kbd>ALT</kbd> + <kbd>3</kbd>: H3
