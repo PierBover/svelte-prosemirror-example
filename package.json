@@ -1,0 +1,37 @@
+{
+  "name": "svelte-prosemirror-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w & sirv public --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/svelte-prosemirror-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/svelte-prosemirror-example/issues"
+  },
+  "homepage": "https://github.com/PierBover/svelte-prosemirror-example#readme",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^12.0.0",
+    "@rollup/plugin-node-resolve": "^8.0.0",
+    "prosemirror-commands": "^1.1.4",
+    "prosemirror-history": "^1.1.3",
+    "prosemirror-keymap": "^1.1.4",
+    "prosemirror-model": "^1.10.0",
+    "prosemirror-schema-basic": "^1.1.2",
+    "prosemirror-state": "^1.3.3",
+    "prosemirror-view": "^1.14.11",
+    "rollup": "^2.12.0",
+    "rollup-plugin-svelte": "^5.2.2",
+    "rollup-plugin-terser": "^6.1.0",
+    "sirv-cli": "^0.4.6",
+    "svelte": "^3.23.0"
+  }
+}
