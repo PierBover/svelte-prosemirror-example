@@ -2,7 +2,7 @@
 	import EditorMenu from './EditorMenu.svelte';
 	import {onMount, onDestroy, createEventDispatcher} from 'svelte';
 	import {writable} from 'svelte/store';
-	import {getActiveMarks, getAvailableBlockTypes} from './prosemirror/index.js';
+	import {getActiveMarks} from './prosemirror/index.js';
 
 	import {DOMParser} from "prosemirror-model";
 	import {schema} from 'prosemirror-schema-basic';
